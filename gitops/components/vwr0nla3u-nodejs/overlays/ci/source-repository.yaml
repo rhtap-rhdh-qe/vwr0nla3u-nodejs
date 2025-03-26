@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vwr0nla3u-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vwr0nla3u-nodejs
